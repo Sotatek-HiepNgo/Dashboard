@@ -1,0 +1,128 @@
+﻿.influence_container .title {
+    height: 40px;
+    font-size: 20px;
+    font-weight: bold;
+    border-bottom: 1px solid green;
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.influence_container .influence_center {
+    gap: 10px;
+    display: grid;
+    grid-template-rows: auto auto auto;
+    /*    grid-template-rows: 0.15fr 0.4fr 0.45fr;*/
+}
+
+    .influence_container .influence_center .gold_risk_group .gold_content {
+        display: flex;
+        justify-content: center;
+    }
+
+        .influence_container .influence_center .gold_risk_group .gold_content .text_color .a {
+            background-color: #1b5a00;
+        }
+
+        .influence_container .influence_center .gold_risk_group .gold_content .text_color .b {
+            background-color: #ffd800;
+        }
+
+        .influence_container .influence_center .gold_risk_group .gold_content .text_color .c {
+            background-color: #ff6a00;
+        }
+
+        .influence_container .influence_center .gold_risk_group .gold_content .text_color .d {
+            background-color: #be0000;
+        }
+
+    /*chartCAT*/
+    .influence_container .influence_center .cat {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+        .influence_container .influence_center .cat .chart_cat {
+            border: 1px solid #ccc;
+            padding: 5px;
+            background-color: #f9f9f9;
+            margin: 5px;
+            height: 220px;
+        }
+
+    /*chartMRC*/
+    .influence_container .influence_center .mMRC {
+        display: grid;
+        grid-template-columns: auto auto;
+    }
+
+        .influence_container .influence_center .mMRC .chart_mrc {
+            border: 1px solid #ccc;
+            padding: 5px;
+            background-color: #f9f9f9;
+            margin: 5px;
+            height: 220px;
+        }
+
+
+/*ALL*/
+.border_left {
+    font-size: 14px;
+    margin: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-left: 4px solid green;
+}
+/*number data*/
+.number_data {
+    font-size: 24px;
+    font-weight: bold;
+    color: #be0000;
+    text-align: center;
+}
+
+.text {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 5px 35px;
+    color: white;
+}
+
+.time {
+    font-size: 12px;
+    font-weight: bold;
+    text-align: center;
+    border-right: 1px dotted gray;
+}
+
+.gd .time {
+    border: none;
+}
+/*dash_line*/
+.dash_line {
+    margin: 0;
+    border: none;
+    border-top: 2px dashed grey;
+    width: 100%;
+}
+/*datalist eva*/
+.date_eva {
+    display: flex;
+    justify-content: center;
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 10px;
+    position: relative;
+}
+
+    .date_eva .date_name {
+        color: #008080;
+        display: flex;
+    }
+
+    .date_eva .date_time {
+        position: absolute;
+        top: 10px;
+    }

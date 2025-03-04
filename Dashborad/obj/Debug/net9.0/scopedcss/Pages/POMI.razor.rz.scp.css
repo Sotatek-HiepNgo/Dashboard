@@ -1,0 +1,10 @@
+.pomi[b-snz13uwdvn]{
+    margin-top: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-column-gap: 3px;
+}
+.severity[b-snz13uwdvn], .activity[b-snz13uwdvn], .influence[b-snz13uwdvn] {
+    border: 2px solid #009e20;
+    border-radius: 5px;
+}

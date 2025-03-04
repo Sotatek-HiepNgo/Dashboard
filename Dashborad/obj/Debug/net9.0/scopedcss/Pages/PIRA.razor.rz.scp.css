@@ -1,0 +1,22 @@
+.pira[b-po7ol2mf2l] {
+    margin-top: 10px;
+    gap: 5px;
+}
+.pira[b-po7ol2mf2l] {
+    display: grid;
+    grid-template-rows: auto auto;  
+}
+.pira .pira_top[b-po7ol2mf2l]{
+    column-gap: 5px;
+    display: grid;
+    grid-template-columns: 3fr 2fr;
+}
+
+/*ALL*/
+ .pira .pira_cop[b-po7ol2mf2l] {
+    border: 2px solid #009e20;
+    border-radius: 5px;
+}
+:root[b-po7ol2mf2l]{
+    font-size: 10px;
+ }

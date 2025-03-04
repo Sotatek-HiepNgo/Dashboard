@@ -1,0 +1,80 @@
+﻿@namespace Dashboard.Components.PIRA_component
+
+<div class="car_container">
+	<p class="title">Cardiovascular disease risk prediction over 10 years</p>
+	<div class="car_content">
+		<div class="car_left">
+
+			<div class="dropdown">
+				<button class="btn_car" type="button" data-toggle="dropdown">
+					Selection
+					<span class="caret"></span>
+				</button>
+				<ul class="dropdown-menu">
+					<li>
+						<a class="select" href="#">
+							Model selection
+						</a>
+					</li>
+					<li>
+						<a class="select" href="#">
+							Advanced model
+						</a>
+					</li>
+				</ul>
+			</div>
+
+			<div id="car_chart">
+				<CarChart />
+			</div>
+		</div>
+		<div class="car_right">
+			<table class="car_table">
+				<thead>
+					<tr>
+						<th>
+							Modifiable risk
+						</th>
+						<th>Test value</th>
+						<th>Target value</th>
+					</tr>
+				</thead>
+				<tr>
+					<td>systolic blood pressure</td>
+					<td>150</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Whether to use high blood pressure medication</td>
+					<td>have</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>BMI</td>
+					<td>twenty one</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Whether to smoke</td>
+					<td>yes</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>Do you have diabetes</td>
+					<td>yes</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>high density cholesterol</td>
+					<td>60</td>
+					<td></td>
+				</tr>
+				<tr>
+					<td>total cholesterol</td>
+					<td>210</td>
+					<td></td>
+				</tr>
+			</table>
+		</div>
+	</div>
+</div>
