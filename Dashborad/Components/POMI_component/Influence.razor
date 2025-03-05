@@ -1,0 +1,55 @@
+﻿@namespace Dashboard.Components
+
+<div class="influence_container">
+	<p class="title">Influence indicator (IMAPCT)</p>
+	<div class="influence_center">
+		<div class="gold_risk_group">
+			<div class=" border_left">GOLD risk group</div>
+			<div class="gold_content">
+				<div class="text_color ga">
+					<div class="text a">A</div>
+					<div class="time">2023/01/03</div>
+				</div>
+				<div class="text_color gb">
+					<div class="text b">B</div>
+					<div class="time">2023/06/01</div>
+				</div>
+				<div class="text_color gc">
+					<div class="text c">C</div>
+					<div class="time">2023/01/01</div>
+				</div>
+				<div class="text_color gd">
+					<div class="text d">D</div>
+					<div class="time">2023/08/30</div>
+				</div>
+			</div>
+		</div>
+		<hr class="dash_line"/>
+		<div class="cat">
+			<div class="cat_content">
+				<div class="border_left">CAT</div>
+				<div class="cat_index number_data">20</div>
+				<div class="date_eva">
+					<div class="date_name">Date of last evaluation:</div> <div class="date_time">2024.08.30</div>
+				</div>
+			</div>
+			<div class="chart_cat">
+				<InfluenceChartCAT />
+			</div>
+		</div>
+		<hr class="dash_line" />
+		<div class="mMRC">
+			<div class="mrc_content">
+				<div class="border_left">mMRC</div>
+				<div class="mrc_index number_data">4</div>
+				<div class="date_eva">
+					<div class="date_name">Date of last evaluation:</div> <div class="date_time">2024.08.30</div>
+				</div>
+			</div>
+		
+			<div class="chart_mrc">
+				<InfluenceChartmMRC />
+			</div>
+		</div>
+	</div>
+</div>

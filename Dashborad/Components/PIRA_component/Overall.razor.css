@@ -1,0 +1,84 @@
+﻿.overall_container {
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    gap: 5px;
+}
+
+/*overall sum table*/
+.over_sum {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid white !important;
+}
+
+    .over_sum th, td {
+        border-right: 2px solid white;
+        padding: 10px;
+    }
+
+    .over_sum th {
+        color: #da5a00;
+        background-color: #f3f3f3;
+    }
+
+    .over_sum td {
+        font-weight: bold;
+    }
+
+    .over_sum thead th, .over_sum tbody td {
+        padding: 0.3rem;
+    }
+
+/*personal table*/
+.person_table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid white !important;
+}
+
+    .person_table .person_title {
+        color: #009700;
+    }
+
+    .person_table th, th:empty {
+        background-color: #f3f3f3;
+    }
+
+    .person_table td {
+        color: gray;
+    }
+
+    .person_table thead th, .person_table tbody td {
+        padding: 0.3rem;
+    }
+
+    .person_table th, td {
+        border-right: 2px solid white;
+        padding: 10px;
+    }
+
+    /*other*/
+    .person_table .other {
+        border-top: 1px solid black;
+        color: black;
+    }
+
+.overall_container .feedback_react {
+    width: 20rem;
+    gap: 2rem;
+    position: fixed;
+    right: 2rem;
+    bottom: 1rem;
+    display: flex;
+}
+/*ALL*/
+.border_left {
+    margin: 1rem;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-left: 4px solid green;
+}
+
+.feedback_react .icon{
+    font-size: 3rem;
+}

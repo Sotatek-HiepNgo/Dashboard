@@ -1,0 +1,209 @@
+﻿.activity_container {
+    width: 100%;
+}
+
+    .activity_container .content {
+        display: grid;
+        grid-template-rows: auto auto auto;
+        gap: 10px;
+    }
+    /* Title */
+    .activity_container .title {
+        height: 40px;
+        font-size: 20px;
+        font-weight: bold;
+        border-bottom: 1px solid green;
+        background-color: #f3f3f3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+/*smoking*/
+.info .info_title {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.info .data {
+    display: flex;
+    justify-content: center;
+}
+
+.info .info_title .status {
+    font-size: 20px;
+    color: gray;
+}
+
+/*BMI*/
+.info .bmi_data .bmi_index {
+    color: #b22222;
+    place-items: flex-end;
+}
+
+
+/*history*/
+.history {
+    display: grid;
+    gap: 10px;
+}
+
+    .history .history_center .mod_center .mod_number {
+        font-weight: bold;
+        color: orange;
+        justify-content: center;
+        align-items: center;
+        display: flex;
+    }
+
+
+    .history .history_center .severe_center .timedata {
+        font-size: 12px;
+        color: #B22222;
+        font-weight: bold;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    /*moderate*/
+    .history .history_center .mod_center {
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        place-items: center;
+    }
+
+        .history .history_center .mod_center .mod {
+            color: orange;
+            font-size: 20px;
+        }
+
+        .history .history_center .mod_center .mod_content {
+            display: grid;
+            place-content: center;
+        }
+/*severe*/
+.severe_center {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    place-items: center;
+}
+
+    .severe_center .severe {
+        color: #B22222;
+        font-weight: bold;
+        font-size: 20px;
+    }
+
+    .severe_center .ser_content {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+        .severe_center .ser_content .severe_number {
+            color: #B22222;
+            font-weight: bold
+        }
+
+/*second rate*/
+.history .history_center .second_rate {
+    font-size: 12px;
+}
+
+/*eosinophil*/
+.section_eos {
+    display: grid;
+    grid-template-columns: 0.4fr 0.6fr;
+}
+    /*eos_center*/
+    .section_eos .eos_center {
+        display: grid;
+        place-items: center;
+    }
+
+        .section_eos .eos_center .eos_item {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-content: center;
+        }
+
+        .section_eos .eos_center .eos_name {
+            font-weight: bold;
+            display: grid;
+            place-items: center;
+            font-size: 14px;
+        }
+
+        .section_eos .eos_center .eos_item .eos_percent {
+            display: flex;
+            justify-content: center;
+            align-items: baseline;
+        }
+
+        .section_eos .eos_center .data_count {
+            display: flex;
+            justify-content: center;
+            align-items: baseline;
+        }
+
+            .section_eos .eos_center .data_count .eos_count {
+                color: #B22222;
+            }
+
+    /* Biểu đồ */
+    .section_eos .chart_eos {
+        border: 1px solid #ccc;
+        padding: 5px;
+        background-color: #f9f9f9;
+        margin: 5px;
+        height: 250px;
+    }
+
+/*ALL*/
+.dash_line {
+    margin: 0;
+    border: none;
+    border-top: 2px dashed grey;
+    width: 100%;
+}
+
+.reference {
+    display: flex;
+    place-items: center;
+    color: gray;
+    font-size: 12px;
+}
+/*index data*/
+.data_index {
+    font-size: 24px;
+    font-weight: bold;
+}
+/*date eva*/
+.date_eva {
+    display: flex;
+    justify-content: center;
+    grid-column: 2;
+    grid-row: 2;
+    font-size: 10px;
+    position: relative;
+}
+
+    .date_eva .date_name {
+        color: #008080;
+        display: flex;
+    }
+
+    .date_eva .date_time {
+        position: absolute;
+        top: 10px;
+    }
+
+.border_left {
+    font-size: 14px;
+    margin: 10px;
+    padding: 5px;
+    margin-bottom: 5px;
+    border-left: 4px solid green;
+}

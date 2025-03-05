@@ -1,0 +1,109 @@
+﻿.acute_container .title {
+    height: 5.5rem;
+    font-size: 2rem;
+    font-weight: bold;
+    border-bottom: 0.1rem solid green;
+    background-color: #f3f3f3;
+    justify-content: flex-start;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+}
+
+.acute_container .acute_content {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.acute_content .acute_left {
+    display: grid;
+    grid-template-rows: auto auto auto;
+}
+
+    .acute_content .acute_left div:nth-child(3) {
+        display: block;
+        margin: 0 auto; /* Căn giữa */
+    }
+
+    .acute_content .acute_left .acute_text {
+        font-size: 1.4rem;
+        margin: 10px;
+        padding: 5px;
+        margin-bottom: 5px;
+        border-left: 4px solid green;
+    }
+    /*button selection*/
+    .acute_content .acute_left .dropdown {
+        margin-left: 1rem;
+    }
+
+        .acute_content .acute_left .dropdown .btn_acute {
+            color: white;
+            font-weight: bold;
+            font-size: 1.8rem;
+            background-color: #da5a00;
+            border: none;
+            border-radius: 5px;
+            position: relative;
+        }
+
+        .acute_content .acute_left .dropdown .dropdown-menu {
+            padding: 0;
+            border: none;
+            border-radius: 5px;
+            position: absolute;
+            top: 3rem;
+        }
+
+        .acute_content .acute_left .dropdown .select {
+            color: #da5a00;
+            font-size: 1.8rem;
+            border: 1px solid #da5a00;
+            border-radius: 5px;
+            font-weight: bold;
+            margin: 2px 0;
+        }
+
+
+/*table*/
+.acute_container .acute_right .acute_table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px dotted #EBF6F3 !important;
+    margin-right: 1rem;
+}
+
+    .acute_container .acute_right .acute_table th, td {
+        border: 2px solid white;
+        padding: 10px;
+        text-align: center;
+    }
+
+    .acute_container .acute_right .acute_table th {
+        background-color: #61C2A3;
+        color: white;
+    }
+
+    .acute_container .acute_right .acute_table td:first-child, td:nth-child(2) {
+        background-color: #EBF6F3;
+    }
+
+    .acute_container .acute_right .acute_table td:first-child {
+        font-weight: bold;
+    }
+
+    .acute_container .acute_right .acute_table tr td:nth-child(3), th:nth-child(3) {
+        border: 3px dotted #EBF6F3;
+        empty-cells: show;
+    }
+
+/*chart*/
+#acute_chart {
+    height: 25rem;
+    width: 25rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 2rem solid lightgray;
+    border-radius: 50%;
+}

@@ -1,0 +1,92 @@
+﻿.severity_container {
+    display: grid;
+}
+    /*title*/
+    .severity_container .severity_title {
+        height: 40px;
+        font-size: 20px;
+        font-weight: bold;
+        border-bottom: 1px solid green;
+        background-color: #f3f3f3;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .severity_container .severity_content {
+        display: flex;
+        flex-direction: column;
+        gap: 5px;
+    }
+
+        .severity_container .severity_content .data {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+        }
+
+            .severity_container .severity_content .data .data_index {
+                font-size: 24px;
+            }
+
+            .severity_container .severity_content .data .data_name {
+                text-align: center;
+                font-size: 14px;
+            }
+
+            .severity_container .severity_content .data .gold_grade {
+                color: orange;
+            }
+
+    .severity_container .comorbid_medical {
+        padding: 2px;
+    }
+
+        .severity_container .comorbid_medical .comorbid {
+            margin: 10px;
+            font-size: 14px;
+            padding: 5px;
+            margin-bottom: 5px;
+            border-left: 4px solid green; /* Vạch xanh lá bên trái */
+        }
+
+        .severity_container .comorbid_medical .list_diseases {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            margin-left: 10px;
+            text-align: center;
+        }
+
+        .severity_container .comorbid_medical .disease {
+            font-size: 14px;
+            color: #777;
+        }
+
+        .severity_container .comorbid_medical .highlight {
+            font-weight: bold;
+            color: green;
+        }
+
+    .severity_container .dash_line {
+        border: none;
+        border-top: 2px dashed grey;
+        width: 100%;
+        margin: 0;
+    }
+    /*biểu đồ*/
+    .severity_container #severity_chart {
+        border: 1px solid #ccc;
+        padding: 5px;
+        background-color: #f9f9f9;
+        height: 250px;
+        margin: 5px;
+    }
+
+
+.select_dis { 
+    color: green !important; 
+    font-weight: bold;
+}
+
