@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "5FYTJshcMm2wbCDNWJMQZEyaKk3IuCWc4+9Id48hofk=",
+  "Hash": "77RWekkwHYeJmqrjOtoSdeKAUtmQ5R1ipDAQSXheCAQ=",
   "Source": "Dashborad",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "achq0v4ixs",
-      "Integrity": "Snbqnb7Tvb5RbA9awUqce5woct2+MQBz530Pc5h0qfQ=",
+      "Fingerprint": "fumpmjza5t",
+      "Integrity": "GQ5JA+y+XsDU8p/9ptmq37XNC7vmarAHBaBVddaQwuM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "9j7uotfy4b",
-      "Integrity": "pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk=",
+      "Fingerprint": "i5kpzw8szi",
+      "Integrity": "RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\Dashborad.pdb"
@@ -94,8 +94,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "7kvos8qgx9",
-      "Integrity": "Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc=",
+      "Fingerprint": "trwvuil6k2",
+      "Integrity": "qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\webcil\\Dashborad.wasm"
@@ -5330,12 +5330,12 @@
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\dotnet.js"
     },
     {
-      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-roeoa35lb7.gz",
+      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-7mu3tpq69t.gz",
       "SourceId": "Dashborad",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "css/app#[.{fingerprint=roeoa35lb7}]?.css.gz",
+      "RelativePath": "css/app#[.{fingerprint=7mu3tpq69t}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -5344,8 +5344,8 @@
       "RelatedAsset": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\css\\app.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "66sxwccwwp",
-      "Integrity": "3pwcRDku/PQlUIIKsYxFtDI6EgXe5WNd8yRBfJAAqHM=",
+      "Fingerprint": "xqxuovjhqf",
+      "Integrity": "p5VCUrDZiI7Yiar/qL6QUgVpdEE+uo5yWoxRLvpOByc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\css\\app.css"
@@ -6485,12 +6485,12 @@
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-9j7uotfy4b.gz",
+      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-i5kpzw8szi.gz",
       "SourceId": "Dashborad",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dashborad#[.{fingerprint=9j7uotfy4b}]!.pdb.gz",
+      "RelativePath": "_framework/Dashborad#[.{fingerprint=i5kpzw8szi}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6499,8 +6499,8 @@
       "RelatedAsset": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dashborad.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ibrai9yi1n",
-      "Integrity": "MqE90nDqLajH2v1QAG7Gibx02gnFNbT1s3/+VBTe1z8=",
+      "Fingerprint": "h15fzyq7u0",
+      "Integrity": "RfKOX+ZcOX5B+Fq1UrYPuwEUJ3Pc43y3CICEuRfrk74=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dashborad.pdb"
@@ -6758,7 +6758,7 @@
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Windows.wasm"
     },
     {
-      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\g6407e7jfy-achq0v4ixs.gz",
+      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\g6407e7jfy-fumpmjza5t.gz",
       "SourceId": "Dashborad",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\",
@@ -6772,8 +6772,8 @@
       "RelatedAsset": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "magw5l91gl",
-      "Integrity": "gnxPsAoN4gWGBexx5YMIjmv4m2BAQdpPqoDIvzNlG0A=",
+      "Fingerprint": "2xtogdah12",
+      "Integrity": "dvHnKk8wO4cPyY6TFD8uraToJW72I1z0LWYGZf3dy8c=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -7451,12 +7451,12 @@
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-7kvos8qgx9.gz",
+      "Identity": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-trwvuil6k2.gz",
       "SourceId": "Dashborad",
       "SourceType": "Computed",
       "ContentRoot": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/Dashborad#[.{fingerprint=7kvos8qgx9}]!.wasm.gz",
+      "RelativePath": "_framework/Dashborad#[.{fingerprint=trwvuil6k2}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -7465,8 +7465,8 @@
       "RelatedAsset": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dashborad.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "5mr8381s5c",
-      "Integrity": "zVDLGV4Q3L49qAIV6dSgay287I8jzx3SCQp9CmkOa0c=",
+      "Fingerprint": "s2war28pko",
+      "Integrity": "HDwegUGVArvEWHeaJ4tuE7YDF93gQ8SyUBWKThCqFuI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dashborad.wasm"
@@ -9796,8 +9796,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "roeoa35lb7",
-      "Integrity": "WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k=",
+      "Fingerprint": "7mu3tpq69t",
+      "Integrity": "vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\app.css"
@@ -10957,11 +10957,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Snbqnb7Tvb5RbA9awUqce5woct2+MQBz530Pc5h0qfQ=\""
+          "Value": "\"GQ5JA+y+XsDU8p/9ptmq37XNC7vmarAHBaBVddaQwuM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:29:10 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10971,18 +10971,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Snbqnb7Tvb5RbA9awUqce5woct2+MQBz530Pc5h0qfQ="
+          "Value": "sha256-GQ5JA+y+XsDU8p/9ptmq37XNC7vmarAHBaBVddaQwuM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\g6407e7jfy-achq0v4ixs.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\g6407e7jfy-fumpmjza5t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080991334"
+          "Quality": "0.000081011017"
         }
       ],
       "ResponseHeaders": [
@@ -10992,15 +10992,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12346"
+          "Value": "12343"
         },
         {
           "Name": "ETag",
-          "Value": "\"gnxPsAoN4gWGBexx5YMIjmv4m2BAQdpPqoDIvzNlG0A=\""
+          "Value": "\"dvHnKk8wO4cPyY6TFD8uraToJW72I1z0LWYGZf3dy8c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:18:13 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11020,19 +11020,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Snbqnb7Tvb5RbA9awUqce5woct2+MQBz530Pc5h0qfQ=\""
+          "Value": "W/\"GQ5JA+y+XsDU8p/9ptmq37XNC7vmarAHBaBVddaQwuM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Snbqnb7Tvb5RbA9awUqce5woct2+MQBz530Pc5h0qfQ="
+          "Value": "sha256-GQ5JA+y+XsDU8p/9ptmq37XNC7vmarAHBaBVddaQwuM="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\g6407e7jfy-achq0v4ixs.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\g6407e7jfy-fumpmjza5t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11041,7 +11041,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12346"
+          "Value": "12343"
         },
         {
           "Name": "Content-Type",
@@ -11049,11 +11049,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"gnxPsAoN4gWGBexx5YMIjmv4m2BAQdpPqoDIvzNlG0A=\""
+          "Value": "\"dvHnKk8wO4cPyY6TFD8uraToJW72I1z0LWYGZf3dy8c=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:18:13 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:38 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11071,7 +11071,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-gnxPsAoN4gWGBexx5YMIjmv4m2BAQdpPqoDIvzNlG0A="
+          "Value": "sha256-dvHnKk8wO4cPyY6TFD8uraToJW72I1z0LWYGZf3dy8c="
         }
       ]
     },
@@ -11213,168 +11213,7 @@
       ]
     },
     {
-      "Route": "_framework/Dashborad.7kvos8qgx9.wasm",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dashborad.wasm",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "52501"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7kvos8qgx9"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dashborad.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dashborad.7kvos8qgx9.wasm",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-7kvos8qgx9.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000075912852"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13172"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zVDLGV4Q3L49qAIV6dSgay287I8jzx3SCQp9CmkOa0c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7kvos8qgx9"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dashborad.wasm"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dashborad.7kvos8qgx9.wasm.gz",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-7kvos8qgx9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "13172"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/wasm"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"zVDLGV4Q3L49qAIV6dSgay287I8jzx3SCQp9CmkOa0c=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "7kvos8qgx9"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/Dashborad.wasm.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-zVDLGV4Q3L49qAIV6dSgay287I8jzx3SCQp9CmkOa0c="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/Dashborad.9j7uotfy4b.pdb",
+      "Route": "_framework/Dashborad.i5kpzw8szi.pdb",
       "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dashborad.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -11392,11 +11231,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk=\""
+          "Value": "\"RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11406,7 +11245,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9j7uotfy4b"
+          "Value": "i5kpzw8szi"
         },
         {
           "Name": "label",
@@ -11414,18 +11253,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk="
+          "Value": "sha256-RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0="
         }
       ]
     },
     {
-      "Route": "_framework/Dashborad.9j7uotfy4b.pdb",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-9j7uotfy4b.gz",
+      "Route": "_framework/Dashborad.i5kpzw8szi.pdb",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-i5kpzw8szi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000032160545"
+          "Quality": "0.000032159511"
         }
       ],
       "ResponseHeaders": [
@@ -11435,15 +11274,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31093"
+          "Value": "31094"
         },
         {
           "Name": "ETag",
-          "Value": "\"MqE90nDqLajH2v1QAG7Gibx02gnFNbT1s3/+VBTe1z8=\""
+          "Value": "\"RfKOX+ZcOX5B+Fq1UrYPuwEUJ3Pc43y3CICEuRfrk74=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11463,13 +11302,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk=\""
+          "Value": "W/\"RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9j7uotfy4b"
+          "Value": "i5kpzw8szi"
         },
         {
           "Name": "label",
@@ -11477,13 +11316,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk="
+          "Value": "sha256-RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0="
         }
       ]
     },
     {
-      "Route": "_framework/Dashborad.9j7uotfy4b.pdb.gz",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-9j7uotfy4b.gz",
+      "Route": "_framework/Dashborad.i5kpzw8szi.pdb.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-i5kpzw8szi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11492,7 +11331,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31093"
+          "Value": "31094"
         },
         {
           "Name": "Content-Type",
@@ -11500,11 +11339,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MqE90nDqLajH2v1QAG7Gibx02gnFNbT1s3/+VBTe1z8=\""
+          "Value": "\"RfKOX+ZcOX5B+Fq1UrYPuwEUJ3Pc43y3CICEuRfrk74=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11522,7 +11361,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "9j7uotfy4b"
+          "Value": "i5kpzw8szi"
         },
         {
           "Name": "label",
@@ -11530,7 +11369,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-MqE90nDqLajH2v1QAG7Gibx02gnFNbT1s3/+VBTe1z8="
+          "Value": "sha256-RfKOX+ZcOX5B+Fq1UrYPuwEUJ3Pc43y3CICEuRfrk74="
         }
       ]
     },
@@ -11553,11 +11392,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk=\""
+          "Value": "\"RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11567,18 +11406,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk="
+          "Value": "sha256-RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0="
         }
       ]
     },
     {
       "Route": "_framework/Dashborad.pdb",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-9j7uotfy4b.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-i5kpzw8szi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000032160545"
+          "Quality": "0.000032159511"
         }
       ],
       "ResponseHeaders": [
@@ -11588,15 +11427,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31093"
+          "Value": "31094"
         },
         {
           "Name": "ETag",
-          "Value": "\"MqE90nDqLajH2v1QAG7Gibx02gnFNbT1s3/+VBTe1z8=\""
+          "Value": "\"RfKOX+ZcOX5B+Fq1UrYPuwEUJ3Pc43y3CICEuRfrk74=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11616,19 +11455,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk=\""
+          "Value": "W/\"RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk="
+          "Value": "sha256-RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0="
         }
       ]
     },
     {
       "Route": "_framework/Dashborad.pdb.gz",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-9j7uotfy4b.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\eb2bhwipym-i5kpzw8szi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11637,7 +11476,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "31093"
+          "Value": "31094"
         },
         {
           "Name": "Content-Type",
@@ -11645,11 +11484,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"MqE90nDqLajH2v1QAG7Gibx02gnFNbT1s3/+VBTe1z8=\""
+          "Value": "\"RfKOX+ZcOX5B+Fq1UrYPuwEUJ3Pc43y3CICEuRfrk74=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11667,7 +11506,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-MqE90nDqLajH2v1QAG7Gibx02gnFNbT1s3/+VBTe1z8="
+          "Value": "sha256-RfKOX+ZcOX5B+Fq1UrYPuwEUJ3Pc43y3CICEuRfrk74="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dashborad.trwvuil6k2.wasm",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\bin\\Debug\\net9.0\\wwwroot\\_framework\\Dashborad.wasm",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "52501"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 04:28:37 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trwvuil6k2"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dashborad.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dashborad.trwvuil6k2.wasm",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-trwvuil6k2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000075895568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13175"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDwegUGVArvEWHeaJ4tuE7YDF93gQ8SyUBWKThCqFuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trwvuil6k2"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dashborad.wasm"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/Dashborad.trwvuil6k2.wasm.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-trwvuil6k2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "13175"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/wasm"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HDwegUGVArvEWHeaJ4tuE7YDF93gQ8SyUBWKThCqFuI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "trwvuil6k2"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/Dashborad.wasm.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HDwegUGVArvEWHeaJ4tuE7YDF93gQ8SyUBWKThCqFuI="
         }
       ]
     },
@@ -11690,11 +11690,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc=\""
+          "Value": "\"qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11704,18 +11704,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc="
+          "Value": "sha256-qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0="
         }
       ]
     },
     {
       "Route": "_framework/Dashborad.wasm",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-7kvos8qgx9.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-trwvuil6k2.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000075912852"
+          "Quality": "0.000075895568"
         }
       ],
       "ResponseHeaders": [
@@ -11725,15 +11725,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13172"
+          "Value": "13175"
         },
         {
           "Name": "ETag",
-          "Value": "\"zVDLGV4Q3L49qAIV6dSgay287I8jzx3SCQp9CmkOa0c=\""
+          "Value": "\"HDwegUGVArvEWHeaJ4tuE7YDF93gQ8SyUBWKThCqFuI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11753,19 +11753,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc=\""
+          "Value": "W/\"qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc="
+          "Value": "sha256-qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0="
         }
       ]
     },
     {
       "Route": "_framework/Dashborad.wasm.gz",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-7kvos8qgx9.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\kbs0i0beue-trwvuil6k2.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -11774,7 +11774,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13172"
+          "Value": "13175"
         },
         {
           "Name": "Content-Type",
@@ -11782,11 +11782,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"zVDLGV4Q3L49qAIV6dSgay287I8jzx3SCQp9CmkOa0c=\""
+          "Value": "\"HDwegUGVArvEWHeaJ4tuE7YDF93gQ8SyUBWKThCqFuI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:44:15 GMT"
+          "Value": "Wed, 05 Mar 2025 04:28:39 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -11804,7 +11804,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-zVDLGV4Q3L49qAIV6dSgay287I8jzx3SCQp9CmkOa0c="
+          "Value": "sha256-HDwegUGVArvEWHeaJ4tuE7YDF93gQ8SyUBWKThCqFuI="
         }
       ]
     },
@@ -71409,13 +71409,13 @@
       ]
     },
     {
-      "Route": "css/app.css",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-roeoa35lb7.gz",
+      "Route": "css/app.7mu3tpq69t.css",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-7mu3tpq69t.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000487092060"
+          "Quality": "0.000501756147"
         }
       ],
       "ResponseHeaders": [
@@ -71425,19 +71425,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2052"
+          "Value": "1992"
         },
         {
           "Name": "ETag",
-          "Value": "\"3pwcRDku/PQlUIIKsYxFtDI6EgXe5WNd8yRBfJAAqHM=\""
+          "Value": "\"p5VCUrDZiI7Yiar/qL6QUgVpdEE+uo5yWoxRLvpOByc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:17:45 GMT"
+          "Value": "Wed, 05 Mar 2025 04:29:00 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -71453,18 +71453,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k=\""
+          "Value": "W/\"vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "7mu3tpq69t"
+        },
+        {
+          "Name": "label",
+          "Value": "css/app.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k="
+          "Value": "sha256-vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY="
         }
       ]
     },
     {
-      "Route": "css/app.css",
+      "Route": "css/app.7mu3tpq69t.css",
       "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\css\\app.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -71474,7 +71482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4404"
+          "Value": "4190"
         },
         {
           "Name": "Content-Type",
@@ -71482,121 +71490,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k=\""
+          "Value": "\"vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:17:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.css.gz",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-roeoa35lb7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2052"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3pwcRDku/PQlUIIKsYxFtDI6EgXe5WNd8yRBfJAAqHM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:17:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3pwcRDku/PQlUIIKsYxFtDI6EgXe5WNd8yRBfJAAqHM="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.roeoa35lb7.css",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-roeoa35lb7.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000487092060"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2052"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3pwcRDku/PQlUIIKsYxFtDI6EgXe5WNd8yRBfJAAqHM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:17:45 GMT"
+          "Value": "Wed, 05 Mar 2025 04:29:00 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "roeoa35lb7"
+          "Value": "7mu3tpq69t"
         },
         {
           "Name": "label",
@@ -71604,13 +71512,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k="
+          "Value": "sha256-vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY="
         }
       ]
     },
     {
-      "Route": "css/app.roeoa35lb7.css",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\css\\app.css",
+      "Route": "css/app.7mu3tpq69t.css.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-7mu3tpq69t.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -71619,7 +71527,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4404"
+          "Value": "1992"
         },
         {
           "Name": "Content-Type",
@@ -71627,56 +71535,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k=\""
+          "Value": "\"p5VCUrDZiI7Yiar/qL6QUgVpdEE+uo5yWoxRLvpOByc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:17:45 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "roeoa35lb7"
-        },
-        {
-          "Name": "label",
-          "Value": "css/app.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-WyY//pY05HIhjpWwV93XhHiLFm9KjJYdWKLlTKSC54k="
-        }
-      ]
-    },
-    {
-      "Route": "css/app.roeoa35lb7.css.gz",
-      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-roeoa35lb7.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2052"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3pwcRDku/PQlUIIKsYxFtDI6EgXe5WNd8yRBfJAAqHM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 04:17:45 GMT"
+          "Value": "Wed, 05 Mar 2025 04:29:00 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -71694,7 +71557,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "roeoa35lb7"
+          "Value": "7mu3tpq69t"
         },
         {
           "Name": "label",
@@ -71702,7 +71565,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3pwcRDku/PQlUIIKsYxFtDI6EgXe5WNd8yRBfJAAqHM="
+          "Value": "sha256-p5VCUrDZiI7Yiar/qL6QUgVpdEE+uo5yWoxRLvpOByc="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-7mu3tpq69t.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000501756147"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1992"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p5VCUrDZiI7Yiar/qL6QUgVpdEE+uo5yWoxRLvpOByc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 04:29:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\css\\app.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4190"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 04:29:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vx4eDNSQgjMRrZWcneH3WwapGq765mLHdxmCm0mgUnY="
+        }
+      ]
+    },
+    {
+      "Route": "css/app.css.gz",
+      "AssetFile": "D:\\Task\\Dashborad\\Dashborad\\obj\\Debug\\net9.0\\compressed\\6g59xmwe0k-7mu3tpq69t.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1992"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p5VCUrDZiI7Yiar/qL6QUgVpdEE+uo5yWoxRLvpOByc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 04:29:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p5VCUrDZiI7Yiar/qL6QUgVpdEE+uo5yWoxRLvpOByc="
         }
       ]
     },

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Task\\Dashborad\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AEA9747C-D900-48C0-9A75-870281D151C7}|Dashborad\\Dashborad.csproj|d:\\task\\dashborad\\dashborad\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{AEA9747C-D900-48C0-9A75-870281D151C7}|Dashborad\\Dashborad.csproj|solutionrelative:dashborad\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEA9747C-D900-48C0-9A75-870281D151C7}|Dashborad\\Dashborad.csproj|d:\\task\\dashborad\\dashborad\\components\\pomi_component\\severity.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{AEA9747C-D900-48C0-9A75-870281D151C7}|Dashborad\\Dashborad.csproj|solutionrelative:dashborad\\components\\pomi_component\\severity.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "Dashborad\\wwwroot\\css\\app.css",
+              "ToolTip": "D:\\Task\\Dashborad\\Dashborad\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "Dashborad\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-05T04:27:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Severity.razor.css",
               "DocumentMoniker": "D:\\Task\\Dashborad\\Dashborad\\Components\\POMI_component\\Severity.razor.css",
               "RelativeDocumentMoniker": "Dashborad\\Components\\POMI_component\\Severity.razor.css",
               "ToolTip": "D:\\Task\\Dashborad\\Dashborad\\Components\\POMI_component\\Severity.razor.css",
               "RelativeToolTip": "Dashborad\\Components\\POMI_component\\Severity.razor.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2025-03-04T04:43:55.778Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Severity.razor",
               "DocumentMoniker": "D:\\Task\\Dashborad\\Dashborad\\Components\\POMI_component\\Severity.razor",
               "RelativeDocumentMoniker": "Dashborad\\Components\\POMI_component\\Severity.razor",
@@ -47,12 +64,11 @@
               "RelativeToolTip": "Dashborad\\Components\\POMI_component\\Severity.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T04:43:52.804Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T04:43:52.804Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "App.razor",
               "DocumentMoniker": "D:\\Task\\Dashborad\\Dashborad\\App.razor",
               "RelativeDocumentMoniker": "Dashborad\\App.razor",
@@ -60,8 +76,7 @@
               "RelativeToolTip": "Dashborad\\App.razor",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-04T04:18:06.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T04:18:06.068Z"
             }
           ]
         }

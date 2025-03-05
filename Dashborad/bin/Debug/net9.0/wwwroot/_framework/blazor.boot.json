@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Dashborad",
   "resources": {
-    "hash": "sha256-P1a97viH3ApMOGawiNzOuWFZTGx3H16fxW7YNhlyjXM=",
+    "hash": "sha256-ye4oiSUZ2NmTHLIEKmmlJ7ahWbcBXBRF/zw9PTqno+M=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.qe23mgxr71.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.flveird317.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -201,8 +201,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "Dashborad.7kvos8qgx9.wasm": "Dashborad.wasm",
-      "Dashborad.9j7uotfy4b.pdb": "Dashborad.pdb"
+      "Dashborad.trwvuil6k2.wasm": "Dashborad.wasm",
+      "Dashborad.i5kpzw8szi.pdb": "Dashborad.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.8bti36lthm.js": "sha256-HFADmT26AarHu4tMjFaTPxINmQjBJGtdPN+CKjtNMFE="
@@ -412,10 +412,10 @@
       "WindowsBase.tuf34ieu7y.wasm": "sha256-Bd+l972cOS1eVeLzrQNlgD6LPWV1QXBSzJhv8Tx1WGI=",
       "mscorlib.5q5u0swn6q.wasm": "sha256-g9cI1sECkF7bxMqOSB+W0a4utdDsqTrqZzyiAEeA65g=",
       "netstandard.w8gk1pigg1.wasm": "sha256-QFR5QNPfvyZTexW3IA/AFx6ZmIF/TecvOUsSK4gM4po=",
-      "Dashborad.7kvos8qgx9.wasm": "sha256-Oe6a2En+dUSGhwcJeVdB8ofOjMsLRBMifhmEN9PVrsc="
+      "Dashborad.trwvuil6k2.wasm": "sha256-qe20+O0IWIcj0gwyK1pri0LqbJuBJxOZHo7c2Ep8bO0="
     },
     "pdb": {
-      "Dashborad.9j7uotfy4b.pdb": "sha256-pZ1H18HSBztXU/3kOUaLSBU9jsnUAqDDsLImVPdNAsk="
+      "Dashborad.i5kpzw8szi.pdb": "sha256-RjWKlMpwpptFRLwrfuWAEsDx1UTEGtaVO9XJvsg6lJ0="
     }
   },
   "cacheBootResources": true,
