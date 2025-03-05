@@ -8,6 +8,8 @@
 
 bin/
 obj/
+wwwroot/lib/
+
 
 project.lock.json
 project.fragment.lock.json
@@ -20,4 +22,3 @@ secrets.json
 logs/
 temp/
 *.tmp
-
