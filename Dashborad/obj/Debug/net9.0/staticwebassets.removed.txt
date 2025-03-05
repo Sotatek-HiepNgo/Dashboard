@@ -1,2 +1,0 @@
-D:\Task\Dashborad\Dashborad\wwwroot\sample-data\data.json
-D:\Task\Dashborad\Dashborad\wwwroot\Chart.js
